@@ -4,7 +4,6 @@ import { NavLink } from "react-router-dom";
 import { BsCartFill, BsCaretDownFill } from "react-icons/bs";
 import { AiFillHome } from "react-icons/ai";
 import { useShop } from "../context/shop-context";
-import { AiFillHeart } from "react-icons/ai";
 
 const Header = () => {
   const { cartItem, products } = useShop();
