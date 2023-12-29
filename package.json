@@ -6,8 +6,10 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "react-build": "react-scripts build"  
   },
+  
   "dependencies": {
     "node-sass": "^8.0.0",
     "react": "^18.2.0",
