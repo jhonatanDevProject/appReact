@@ -1,0 +1,3 @@
+[build]
+  publish = "Desco-shop/assets/"
+  command = "npm run build"
